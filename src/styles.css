@@ -8,6 +8,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  color: #3a3a3a;
 }
 
 .container {
@@ -15,13 +16,13 @@ body {
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 1px solid #3a3a3a;
   padding: 30px;
   border-radius: 5px;
 }
 .btn {
   display: inline-block;
-  background: #000;
+  background: #3a3a3a;
   color: #fff;
   border: none;
   padding: 10px 20px;
